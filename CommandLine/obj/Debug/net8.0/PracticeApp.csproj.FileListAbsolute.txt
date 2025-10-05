@@ -1,0 +1,42 @@
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfoInputs.cache
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfo.cs
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\PracticeApp\bin\Debug\net8.0\PracticeApp.exe
+E:\Projects\Practice\PracticeApp\bin\Debug\net8.0\PracticeApp.deps.json
+E:\Projects\Practice\PracticeApp\bin\Debug\net8.0\PracticeApp.runtimeconfig.json
+E:\Projects\Practice\PracticeApp\bin\Debug\net8.0\PracticeApp.dll
+E:\Projects\Practice\PracticeApp\bin\Debug\net8.0\PracticeApp.pdb
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.dll
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\refint\PracticeApp.dll
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.pdb
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
+E:\Projects\Practice\PracticeApp\obj\Debug\net8.0\ref\PracticeApp.dll
+E:\Projects\Practice\CommandLine\bin\Debug\net8.0\PracticeApp.exe
+E:\Projects\Practice\CommandLine\bin\Debug\net8.0\PracticeApp.deps.json
+E:\Projects\Practice\CommandLine\bin\Debug\net8.0\PracticeApp.runtimeconfig.json
+E:\Projects\Practice\CommandLine\bin\Debug\net8.0\PracticeApp.dll
+E:\Projects\Practice\CommandLine\bin\Debug\net8.0\PracticeApp.pdb
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.AssemblyInfoInputs.cache
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.AssemblyInfo.cs
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.dll
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\refint\PracticeApp.dll
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.pdb
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
+E:\Projects\Practice\CommandLine\obj\Debug\net8.0\ref\PracticeApp.dll
+D:\Projects\Main Projects\CommandLine\bin\Debug\net8.0\PracticeApp.exe
+D:\Projects\Main Projects\CommandLine\bin\Debug\net8.0\PracticeApp.deps.json
+D:\Projects\Main Projects\CommandLine\bin\Debug\net8.0\PracticeApp.runtimeconfig.json
+D:\Projects\Main Projects\CommandLine\bin\Debug\net8.0\PracticeApp.dll
+D:\Projects\Main Projects\CommandLine\bin\Debug\net8.0\PracticeApp.pdb
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.AssemblyInfoInputs.cache
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.AssemblyInfo.cs
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.csproj.CoreCompileInputs.cache
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.dll
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\refint\PracticeApp.dll
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.pdb
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
+D:\Projects\Main Projects\CommandLine\obj\Debug\net8.0\ref\PracticeApp.dll
